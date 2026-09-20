@@ -1,29 +1,10 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🚀 ШАБЛОН КРУТОГО GITHUB PROFILE README
-     ═══════════════════════════════════════════════════════════════════════════
-     КАК ИСПОЛЬЗОВАТЬ:
-     1. Создай репозиторий с именем, СОВПАДАЮЩИМ с твоим юзернеймом на GitHub
-        (например, юзернейм "alexdev" → репозиторий "alexdev")
-     2. Скопируй этот файл как README.md в корень того репозитория
-     3. Замени ВСЕ заглушки (команда для Linux/Mac/Git Bash):
-        sed -i 's/YOUR-USERNAME/твой_юзернейм/g; s/YOUR_NAME/Твоё Имя/g; s/YOUR_SPOTIFY_ID/твой_spotify_id/g' README.md
-     4. Удали/закомментируй секции, которые не нужны
-     5. Всё, что в <!-- таких комментариях --> — на GitHub НЕ отображается,
-        поэтому подсказки можно смело оставлять в файле
-     ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
-<!-- ═══ АНИМИРОВАННЫЙ БАННЕР-ШАПКА (capsule-render, генерирует SVG с волной) ═══
-     Сменить цвет: color=gradient | 0:88:ff-ff00cc | random | 0a66c2-ffffff
-     Типы: waving | transparent | soft | cut | rounded | rect
-     Конструктор: https://capsule-render.vercel.app -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,30&height=280&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=pink&customColorList=2,11,30&height=280&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="Header banner"/>
 
 <!-- ═══ ПЕЧАТАЮЩИЙСЯ ТЕКСТ (typewriter) ═══
      Строки через %20%20|%20 (это " | " с URL-кодированием пробелов)
      Конструктор: https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/TWOINTHEPINKY">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+YOUR_NAME;%F0%9F%92%BB+I+build+cool+things+for+the+web;%F0%9F%8E%AE+Gamer+%26+Coffee+Lover+%E2%98%95;%F0%9F%8C%B1+Currently+learning+Rust+%26+Go" alt="Typing SVG"/>
 </a>
 
