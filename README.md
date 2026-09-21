@@ -9,7 +9,14 @@
 </div>
 
 <div align="center">
-  <img src="./assets/dividers/neon-slide.svg" width="100%" height="8" alt="──────"/>
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=b14ea9&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&redirect=true)
+</div>
+
+<div align="center">
+
+<div align="center">
+  <img src="./assets/dividers/wave-dash.svg" width="100%" height="8" alt="──────"/>
 </div>
 
 <div align="center">
@@ -34,12 +41,12 @@ I develop absolutely **incredible** things—specifically, creative projects. My
 </table>
 
 <div align="center">
-  <img src="./assets/dividers/wave-dash.svg" width="100%" height="8" alt="──────"/>
+  <img src="./assets/dividers/pulse-dots.svg" width="100%" height="8" alt="──────"/>
 </div>
 
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandqb284ODQyOXdnd2xhNnhpYzdoZWI4c2ZtYXQ1OWd3djBkbmY2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" width="50" height="50"/> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandqb284ODQyOXdnd2xhNnhpYzdoZWI4c2ZtYXQ1OWd3djBkbmY2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" width="100" height="100"/> 
   
   tech stack:
 </div>
@@ -54,9 +61,8 @@ I develop absolutely **incredible** things—specifically, creative projects. My
 <br/>
 
 <div align="center">
-  <img src="./assets/dividers/pulse-dots.svg" width="100%" height="8" alt="──────"/>
+  <img src="./assets/dividers/gothic-blood.svg" width="100%" height="8" alt="──────"/>
 </div>
-
 
 <div align="center">
 Connect With Me
@@ -65,132 +71,9 @@ Connect With Me
 <div align="center">
 
 <a href="https://t.me/@champagneslesar6"><img src="./assets/icons-animated/icons/telegram.svg" width="100" height="100" alt="tg"/></a>
-<a href="mailto:pinkstevenct@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:pinkstevenct@gmail.com"><img src="./assets/icons-animated/icons/gmail.svg" alt="mail"/></a>
 
 </div>
 
----
 
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TWOINTHEPINKY&theme=tokyonight&hide_border=true" height="165" alt="Streak"/>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="32" height="32"/> Now Playing
-
-<!-- Сервис: https://github.com/kittinan/spotify-github-profile
-     1. Открой https://spotify-github-profile.vercel.app/
-     2. Нажми LOGIN WITH SPOTIFY, разреши доступ
-     3. Скопируй готовую ссылку или свой uid (в URL) и подставь сюда
-     Темы: novatorem | default | natemoo-re | compact
-     ⚠️ Если трек не играет, виджет покажет последний (show_offline=true) -->
-     
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_style=default" width="60%" alt="Spotify now playing"/>
-  </a>
-
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=b14ea9&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&redirect=true)
-</div>
-
----
-
-<!-- ═══════════════════ 😄 FUN-ВИДЖЕТЫ ═══════════════════ -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32"/> Random Stuff
-
-<div align="center">
-
-<!-- Рандомная цитата (обновляется при каждом заходе) -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&username=YOUR-USERNAME" width="60%" alt="Random quote"/>
-
-<br/><br/>
-
-<!-- Рандомный анекдот про программистов. Если сервис упал — просто удали -->
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=00D4FF" width="60%" alt="Dev joke"/>
-
-</div>
-
----
-
-<!-- ═══════════════════ 🎬 ВИДЕО-СЕКЦИЯ ═══════════════════ -->
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="32" height="32"/> My Projects Showcase
-
-<!-- ⚠️ GitHub НЕ разрешает тег <video> в markdown. Видео вставляется ТОЛЬКО так:
-     1. Открой свой README.md в веб-редакторе GitHub (клавиша E или карандаш)
-     2. Перетащи mp4/mov файл прямо в окно редактора (drag & drop)
-     3. GitHub загрузит файл и вставит строку вида:
-        ![Video](https://github.com/YOUR-USERNAME/repo/assets/123456/abc-def)
-     4. Вот и всё — на странице README появится видеоплеер.
-     Лимиты: до 10 МБ (бесплатный аккаунт), mp4/mov, без автовоспроизведения.
-     Раскомментируй пример ниже и замени ссылку на свою: -->
-
-<div align="center">
-
-<!-- ![Video](https://github.com/YOUR-USERNAME/YOUR-USERNAME/assets/000000000/xxxxx-xxxxx) -->
-
-<!-- АЛЬТЕРНАТИВА без лимитов: кликабельный GIF-превью → ссылка на YouTube.
-     Тег <video> и плеер YouTube (iframe) в README ЗАПРЕЩЕНЫ, поэтому так: -->
-<a href="https://youtube.com/watch?v=ВАШЕ-ВИДЕО">
-  <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" width="55%" alt="Watch demo video" style="border-radius: 12px;"/>
-</a>
-<p><sub>👆 Кликни, чтобы посмотреть демо на YouTube</sub></p>
-
-</div>
-
----
-
-<!-- ═══════════════════ 📬 КОНТАКТЫ В РАСКРЫВАШКЕ ═══════════════════ -->
-<!-- <details>/<summary> — нативный аккордеон GitHub, единственный
-     "интерактив" кроме ссылок. Внутрь можно класть любой markdown -->
-<details>
-  <summary><b>📬 Contact & Support (click to expand)</b></summary>
-  <br/>
-  <div align="center">
-
-  | Channel | Link |
-  |---------|------|
-  | 📧 Email | your@email.com |
-  | 💬 Telegram | [@YOUR-USERNAME](https://t.me/YOUR-USERNAME) |
-  | 🌐 Website | [your-portfolio.dev](https://your-portfolio.dev) |
-
-  <!-- Кнопка "купить кофе" — тоже интерактивная ссылка -->
-  <a href="https://www.buymeacoffee.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee"/>
-  </a>
-
-  </div>
-</details>
-
-<details>
-  <summary><b>⚙️ My GitHub Setup (click to expand)</b></summary>
-  <br/>
-
-  - **OS:** Arch Linux btw
-  - **Editor:** Neovim + VS Code
-  - **Terminal:** Alacritty + tmux + zsh
-  - **Shell config:** [dotfiles](https://github.com/YOUR-USERNAME/dotfiles)
-  - **Keyboard:** Keychron K8 (mechanical)
-
-</details>
-
----
-
-<div align="center">
-
-<!-- ═══ FOOTER ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,30&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
-
-<!-- Звёздочка-ссылка на профиль + "сделано с любовью" -->
-<a href="https://github.com/YOUR-USERNAME">
-  <img src="https://img.shields.io/badge/⭐%20Star%20my%20repos!-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Star my repos"/>
-</a>
-
-<p>
-  <sub>Made with ❤️ by <a href="https://github.com/YOUR-USERNAME">YOUR_NAME</a> · Last updated by 🤖 GitHub Actions</sub>
-</p>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:8A2B5C&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
