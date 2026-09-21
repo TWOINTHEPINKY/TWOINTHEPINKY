@@ -19,21 +19,10 @@
   <img src="./assets/dividers/wave-dash.svg" width="100%" height="10" alt="──────"/>
 </div>
 
-<table border="0">
-<tr>
-<td width="62%" valign="top">
 
-<img src="./assets/text-fx/info-typewriter.svg" width="100%" alt="I develop absolutely incredible things - specifically, creative projects. My work covers everything from frontend and backend development to integrating custom bots and scripts. If you are familiar with my projects — or if something you’ve just seen caught your eye - and you have an idea, please get in touch. Contact me via the links below. P.S. Pizza, McDonald's 'n' Sprite Lover"/>
+<img src="./assets/text-fx/info-typewriter.svg" width="60%" alt="I develop absolutely incredible things - specifically, creative projects. My work covers everything from frontend and backend development to integrating custom bots and scripts. If you are familiar with my projects — or if something you’ve just seen caught your eye - and you have an idea, please get in touch. Contact me via the links below. P.S. Pizza, McDonald's 'n' Sprite Lover"/> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjQzeXc2dG1uenoya2V6N3BveWRnejBlcXloNTF4ZDZ3dHY4MW9ycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="340" alt="Coding gif"/>
 
 
-</td>
-<td width="38%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjQzeXc2dG1uenoya2V6N3BveWRnejBlcXloNTF4ZDZ3dHY4MW9ycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="250" alt="Coding gif"/>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img src="./assets/dividers/pulse-dots.svg" width="100%" height="25" alt="──────"/>
@@ -42,6 +31,8 @@
 
 <div align="center">
   <img src="./assets/icons-animated/icons/react.svg" width="100" height="100" alt="React"/> <img src="./assets/icons-animated/icons/typescript.svg" width="100" height="100" alt="TS"/> <img src="./assets/icons-animated/icons/css3.svg" width="100" height="100" alt="css"/> <img src="./assets/icons-animated/icons/figma.svg" width="100" height="100" alt="figma"/> <img src="./assets/icons-animated/icons/go.svg" width="100" height="100" alt="go"/> <img src="./assets/icons-animated/icons/nodejs.svg" width="100" height="100" alt="nodejs"/> <img src="./assets/icons-animated/icons/javascript.svg" width="100" height="100" alt="JS"/> <img src="./assets/icons-animated/icons/html5.svg" width="100" height="100" alt="html"/>
+  <br/>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32"/> Tech Stack
   <br/>
   <img src="./assets/icons-animated/icons/vscode.svg" width="100" height="100" alt="vs"/> <img src="./assets/icons-animated/icons/vue.svg" width="100" height="100" alt="vue"/> <img src="./assets/icons-animated/icons/typescript.svg" width="100" height="100" alt="TS"/> <img src="./assets/icons-animated/icons/python.svg" width="100" height="100" alt="py"/> <img src="./assets/icons-animated/icons/git.svg" width="100" height="100" alt="git"/> <img src="./assets/icons-animated/icons/postgresql.svg" width="100" height="100" alt="psql"/> <img src="./assets/icons-animated/icons/github.svg" width="100" height="100" alt="gh"/> 
 </div>
