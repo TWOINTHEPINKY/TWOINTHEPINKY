@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:8A2B5C&height=280&section=header&text=TWOINTHEPINKY&fontSize=60&fontColor=7f159e&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:8A2B5C&height=280&section=header&text=TWOINTHEPINKY&fontSize=60&fontColor=7f159e&animation=fadeIn&fontAlignY=36&desc=Full-Stack%Developer-Generalist%20%7C%20Fan%20Of%20Surrealism%20&%20Pizza&descSize=18&descAlignY=58" width="100%" alt="Header banner"/>
 
 <!-- ═══ ПЕЧАТАЮЩИЙСЯ ТЕКСТ (typewriter) ═══
      Строки через %20%20|%20 (это " | " с URL-кодированием пробелов)
