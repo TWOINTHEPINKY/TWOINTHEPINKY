@@ -16,23 +16,23 @@
 <div align="center">
 
 <div align="center">
-  <img src="./assets/dividers/wave-dash.svg" width="100%" height="8" alt="──────"/>
+  <img src="./assets/dividers/wave-dash.svg" width="100%" height="10" alt="──────"/>
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MG1zYW9xeW1pcWN6d3NhMmE0cDBlbzVxdjd6c3VrOTJoa3Rhc2w2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OvsFsuMtDtEhOzqHEs/giphy.gif" width="100" height="100"/> 
-
-info:
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MG1zYW9xeW1pcWN6d3NhMmE0cDBlbzVxdjd6c3VrOTJoa3Rhc2w2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OvsFsuMtDtEhOzqHEs/giphy.gif" width="100" height="100" style="vertical-align:middle"/>
+<img src="./assets/text-fx/title-info.svg" height="44" alt="info:" style="vertical-align:middle"/>
 </div>
 
 <table border="0">
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-I develop absolutely **incredible** things—specifically, creative projects. My work covers everything from frontend and backend development to integrating your custom bots and scripts. If you are familiar with my projects—or if something you’ve just seen caught your eye—and you have an idea, please get in touch. Contact me via the links below.
+<img src="./assets/text-fx/info-typewriter.svg" width="100%" alt="I develop absolutely incredible things—specifically, creative projects. My work covers everything from frontend and backend development to integrating your custom bots and scripts. If you are familiar with my projects—or if something you’ve just seen caught your eye—and you have an idea, please get in touch. Contact me via the links below."/>
+
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="38%" valign="top" align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjQzeXc2dG1uenoya2V6N3BveWRnejBlcXloNTF4ZDZ3dHY4MW9ycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="250" alt="Coding gif"/>
 
@@ -41,7 +41,7 @@ I develop absolutely **incredible** things—specifically, creative projects. My
 </table>
 
 <div align="center">
-  <img src="./assets/dividers/pulse-dots.svg" width="100%" height="8" alt="──────"/>
+  <img src="./assets/dividers/pulse-dots.svg" width="100%" height="25" alt="──────"/>
 </div>
 
 
@@ -61,7 +61,7 @@ I develop absolutely **incredible** things—specifically, creative projects. My
 <br/>
 
 <div align="center">
-  <img src="./assets/dividers/gothic-blood.svg" width="100%" height="8" alt="──────"/>
+  <img src="./assets/dividers/gothic-blood.svg" width="100%" height="25" alt="──────"/>
 </div>
 
 <div align="center">
@@ -71,7 +71,7 @@ Connect With Me
 <div align="center">
 
 <a href="https://t.me/@champagneslesar6"><img src="./assets/icons-animated/icons/telegram.svg" width="100" height="100" alt="tg"/></a>
-<a href="mailto:pinkstevenct@gmail.com"><img src="./assets/icons-animated/icons/gmail.svg" alt="mail"/></a>
+<a href="mailto:pinkstevenct@gmail.com"><img src="./assets/icons-animated/icons/gmail.svg" width="100" height="100" alt="mail"/></a>
 
 </div>
 
