@@ -76,31 +76,10 @@ Connect With Me
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TWOINTHEPINKY&theme=tokyonight&hide_border=true" height="165" alt="Streak"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOINTHEPINKY&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-<!-- 🏆 Достижения/трофеи -->
-<img src="https://github-profile-trophy.vercel.app/?username=TWOINTHEPINKY&theme=onedark&no-frame=true&margin-w=4&row=2&column=4" height="180" alt="Trophies"/>
-
-<br/>
-
-<!-- График активности по дням (за год) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TWOINTHEPINKY&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
-
-</div>
-
-<!-- ═══ 3D-ГРАФИК КОММИТОВ (как на habr-статьях) ═══
-     Картинку ГЕНЕРИРУЕТ GitHub Actions раз в сутки (см. файл
-     .github/workflows/update-widgets.yml в этом шаблоне).
-     Она появляется в ветке профиля по пути profile-3d-contrib/*.svg -->
-<div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock-green-0.svg" width="95%" alt="3D contribution graph"/>
 </div>
 
 ---
 
-<!-- ═══════════════════ 🎵 СПОТИФАЙ "ЧТО СЛУШАЮ СЕЙЧАС" ═══════════════════ -->
 ## <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="32" height="32"/> Now Playing
 
 <!-- Сервис: https://github.com/kittinan/spotify-github-profile
@@ -109,10 +88,13 @@ Connect With Me
      3. Скопируй готовую ссылку или свой uid (в URL) и подставь сюда
      Темы: novatorem | default | natemoo-re | compact
      ⚠️ Если трек не играет, виджет покажет последний (show_offline=true) -->
+     
 <div align="center">
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_style=default" width="60%" alt="Spotify now playing"/>
   </a>
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&cover_image=false&theme=novatorem&show_offline=false&background_color=2ee7ff&interchange=true&profanity=false&hide_remaster=false&bar_color=c32ac6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 ---
