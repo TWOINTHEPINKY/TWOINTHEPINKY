@@ -32,7 +32,7 @@
 <div align="center">
   <img src="./assets/icons-animated/icons/react.svg" width="100" height="100" alt="React"/> <img src="./assets/icons-animated/icons/typescript.svg" width="100" height="100" alt="TS"/> <img src="./assets/icons-animated/icons/css3.svg" width="100" height="100" alt="css"/> <img src="./assets/icons-animated/icons/figma.svg" width="100" height="100" alt="figma"/> <img src="./assets/icons-animated/icons/go.svg" width="100" height="100" alt="go"/> <img src="./assets/icons-animated/icons/nodejs.svg" width="100" height="100" alt="nodejs"/> <img src="./assets/icons-animated/icons/javascript.svg" width="100" height="100" alt="JS"/> <img src="./assets/icons-animated/icons/html5.svg" width="100" height="100" alt="html"/>
   <br/>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32"/> Tech Stack
+*Tech Stack*
   <br/>
   <img src="./assets/icons-animated/icons/vscode.svg" width="100" height="100" alt="vs"/> <img src="./assets/icons-animated/icons/vue.svg" width="100" height="100" alt="vue"/> <img src="./assets/icons-animated/icons/typescript.svg" width="100" height="100" alt="TS"/> <img src="./assets/icons-animated/icons/python.svg" width="100" height="100" alt="py"/> <img src="./assets/icons-animated/icons/git.svg" width="100" height="100" alt="git"/> <img src="./assets/icons-animated/icons/postgresql.svg" width="100" height="100" alt="psql"/> <img src="./assets/icons-animated/icons/github.svg" width="100" height="100" alt="gh"/> 
 </div>
@@ -53,5 +53,5 @@ Connect With Me
 <a href="mailto:pinkstevenct@gmail.com"><img src="./assets/icons-animated/icons/gmail.svg" width="100" height="100" alt="mail"/></a>
 
 </div>
-
+<img src="assets/Video Project.gif" width="300" height="300"/> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:8A2B5C&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
