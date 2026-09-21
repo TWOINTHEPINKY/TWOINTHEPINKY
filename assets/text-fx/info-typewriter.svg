@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 232" width="620" height="232">
+<!-- ✍️ Абзац «печатается» построчно. Текст тот же — изменилась только подача.
+     Пересобрать после правок: python3 build_text_fx.py -->
+<defs>
+<linearGradient id="hlGrad" x1="-0.6" y1="0" x2="0.0" y2="0">
+<stop offset="0" stop-color="#ff4dcd"/>
+<stop offset=".5" stop-color="#eaffff"/>
+<stop offset="1" stop-color="#00d4ff"/>
+<animate attributeName="x1" values="-0.6;1.0" dur="2.4s" repeatCount="indefinite"/>
+<animate attributeName="x2" values="0.2;1.7" dur="2.4s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#00d4ff"/><stop offset="1" stop-color="#ff4dcd"/>
+</linearGradient>
+</defs>
+<style>
+text{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:16px;fill:#e6edf3}
+</style>
+<rect x="0.5" y="0.5" width="619" height="231" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="24" cy="20" r="5.5" fill="#ff5f56"/><circle cx="42" cy="20" r="5.5" fill="#ffbd2e"/><circle cx="60" cy="20" r="5.5" fill="#27c93f"/>
+<rect x="14" y="42" width="3" height="178" rx="1.5" fill="url(#accent)" opacity=".75"/>
+<g>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.9592;0.995;1" dur="17.2s" repeatCount="indefinite"/>
+<text x="30" y="56" clip-path="url(#c0)"><tspan>I develop absolutely </tspan><tspan font-weight="700" fill="url(#hlGrad)">incredible</tspan><tspan> things—specifically, creative</tspan></text><text x="30" y="80" clip-path="url(#c1)"><tspan>projects. My work covers everything from frontend and backend</tspan></text><text x="30" y="104" clip-path="url(#c2)"><tspan>development to integrating your custom bots and scripts. If you</tspan></text><text x="30" y="128" clip-path="url(#c3)"><tspan>are familiar with my projects—or if something you’ve just seen</tspan></text><text x="30" y="152" clip-path="url(#c4)"><tspan>caught your eye—and you have an idea, please get in touch.</tspan></text><text x="30" y="176" clip-path="url(#c5)"><tspan>Contact me via the links below.</tspan></text><text x="30" y="208" clip-path="url(#c6)"><tspan font-weight="700" fill="url(#hlGrad)">P.S. Pizza, Sprite and MacDonald's lover.</tspan></text>
+<rect x="29" y="40" width="2.5" height="18" fill="#00d4ff">
+<animate attributeName="x" values="29.0;29.0;549.5;549.5;29.0;549.5;549.5;29.0;566.5;566.5;29.0;558.0;558.0;29.0;524.0;524.0;29.0;294.5;294.5;29.0;379.5;379.5;379.5" keyTimes="0.0000;0.0291;0.1476;0.1674;0.1680;0.2864;0.3062;0.3068;0.4291;0.4489;0.4495;0.5699;0.5897;0.5903;0.7029;0.7227;0.7233;0.7835;0.8033;0.8039;0.8835;0.9592;1.0000" dur="17.2s" repeatCount="indefinite"/>
+<animate attributeName="y" values="40.0;40.0;40.0;40.0;64.0;64.0;64.0;88.0;88.0;88.0;112.0;112.0;112.0;136.0;136.0;136.0;160.0;160.0;160.0;192.0;192.0;192.0;192.0" keyTimes="0.0000;0.0291;0.1476;0.1674;0.1680;0.2864;0.3062;0.3068;0.4291;0.4489;0.4495;0.5699;0.5897;0.5903;0.7029;0.7227;0.7233;0.7835;0.8033;0.8039;0.8835;0.9592;1.0000" dur="17.2s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="0.85s" repeatCount="indefinite"/>
+</rect>
+</g>
+<defs><clipPath id="c0"><rect x="26" y="36" height="28" width="0"><animate attributeName="width" values="0;0;522;522;0" keyTimes="0;0.0291;0.1476;0.99;1" dur="17.2s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c1"><rect x="26" y="60" height="28" width="0"><animate attributeName="width" values="0;0;522;522;0" keyTimes="0;0.1680;0.2864;0.99;1" dur="17.2s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c2"><rect x="26" y="84" height="28" width="0"><animate attributeName="width" values="0;0;540;540;0" keyTimes="0;0.3068;0.4291;0.99;1" dur="17.2s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c3"><rect x="26" y="108" height="28" width="0"><animate attributeName="width" values="0;0;531;531;0" keyTimes="0;0.4495;0.5699;0.99;1" dur="17.2s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c4"><rect x="26" y="132" height="28" width="0"><animate attributeName="width" values="0;0;497;497;0" keyTimes="0;0.5903;0.7029;0.99;1" dur="17.2s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c5"><rect x="26" y="156" height="28" width="0"><animate attributeName="width" values="0;0;268;268;0" keyTimes="0;0.7233;0.7835;0.99;1" dur="17.2s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c6"><rect x="26" y="188" height="28" width="0"><animate attributeName="width" values="0;0;352;352;0" keyTimes="0;0.8039;0.8835;0.99;1" dur="17.2s" repeatCount="indefinite"/></rect></clipPath></defs>
+</svg>
