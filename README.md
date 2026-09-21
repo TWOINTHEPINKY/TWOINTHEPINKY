@@ -46,9 +46,8 @@
 
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandqb284ODQyOXdnd2xhNnhpYzdoZWI4c2ZtYXQ1OWd3djBkbmY2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" width="100" height="100"/> 
-  
-  tech stack:
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandqb284ODQyOXdnd2xhNnhpYzdoZWI4c2ZtYXQ1OWd3djBkbmY2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" width="100" height="100" style="vertical-align:middle"/>
+<img src="./assets/text-fx/title-tech-stack.svg" height="44" alt="tech stack:" style="vertical-align:middle"/>
 </div>
 
 
