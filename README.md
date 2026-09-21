@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:8A2B5C&height=280&section=header&text=TWOINTHEPINKY&fontSize=60&fontColor=7f159e&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer-Generalist%20%7C%20Seeker%20Of%20The%20Ideal%20&descSize=18&descAlignY=58" width="100%" alt="Header banner"/>
 
 <a href="https://github.com/TWOINTHEPINKY">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=c566e1&center=true&vCenter=true&width=650&lines=%F0%9F%92%BE+Sap%2C+I'm+twointhepinky+%F0%9F%8C%86;I+am+involved+in+art;%F0%9F%8E%AC+I+Create+A+Beautiful+Visual+%F0%9F%8E%B5;And+Handle+The+Tedious+Technical+Work;%F0%9F%A6%87+%F0%9F%95%B8%EF%B8%8F+SHH+%F0%9F%90%88%E2%80%8D%E2%AC%9B+%F0%9F%A5%80;%F0%9F%8D%95+Pizza+,+McDonald's+%26+Sprite+Lover+%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=c566e1&center=true&vCenter=true&width=650&lines=Sap%2C+I'm+twointhepinky;I+am+involved+in+art;I+Create+A+Beautiful+Visual;And+Handle+The+Tedious+Technical+Work;%F0%9F%A6%87+%F0%9F%95%B8%EF%B8%8F+SHH+%F0%9F%90%88%E2%80%8D%E2%AC%9B+%F0%9F%A5%80" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=b14ea9&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=b14ea9&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&redirect=true) <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MG1zYW9xeW1pcWN6d3NhMmE0cDBlbzVxdjd6c3VrOTJoa3Rhc2w2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OvsFsuMtDtEhOzqHEs/giphy.gif" width="155" height="155" style="vertical-align:middle"/>
 </div>
 
 <div align="center">
@@ -19,16 +19,11 @@
   <img src="./assets/dividers/wave-dash.svg" width="100%" height="10" alt="──────"/>
 </div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MG1zYW9xeW1pcWN6d3NhMmE0cDBlbzVxdjd6c3VrOTJoa3Rhc2w2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OvsFsuMtDtEhOzqHEs/giphy.gif" width="100" height="100" style="vertical-align:middle"/>
-<img src="./assets/text-fx/title-info.svg" height="44" alt="info:" style="vertical-align:middle"/>
-</div>
-
 <table border="0">
 <tr>
 <td width="62%" valign="top">
 
-<img src="./assets/text-fx/info-typewriter.svg" width="100%" alt="I develop absolutely incredible things—specifically, creative projects. My work covers everything from frontend and backend development to integrating your custom bots and scripts. If you are familiar with my projects—or if something you’ve just seen caught your eye—and you have an idea, please get in touch. Contact me via the links below."/>
+<img src="./assets/text-fx/info-typewriter.svg" width="100%" alt="I develop absolutely incredible things - specifically, creative projects. My work covers everything from frontend and backend development to integrating custom bots and scripts. If you are familiar with my projects — or if something you’ve just seen caught your eye - and you have an idea, please get in touch. Contact me via the links below. P.S. Pizza, McDonald's 'n' Sprite Lover"/>
 
 
 </td>
@@ -42,12 +37,6 @@
 
 <div align="center">
   <img src="./assets/dividers/pulse-dots.svg" width="100%" height="25" alt="──────"/>
-</div>
-
-
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandqb284ODQyOXdnd2xhNnhpYzdoZWI4c2ZtYXQ1OWd3djBkbmY2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" width="100" height="100" style="vertical-align:middle"/>
-<img src="./assets/text-fx/title-tech-stack.svg" height="44" alt="tech stack:" style="vertical-align:middle"/>
 </div>
 
 
@@ -73,6 +62,5 @@ Connect With Me
 <a href="mailto:pinkstevenct@gmail.com"><img src="./assets/icons-animated/icons/gmail.svg" width="100" height="100" alt="mail"/></a>
 
 </div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:8A2B5C&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
