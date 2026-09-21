@@ -1,0 +1,58 @@
+# ═══════════════════════════════════════════════════════════════════
+# Воркфлоу генерирует "живые" виджеты и коммитит их прямо в репозиторий:
+#   1. 🐍 Змейка        → assets/snake-dark.svg, assets/snake-light.svg
+#   2. 📊 3D-график     → profile-3d-contrib/*.svg
+# Запускается каждые 6 часов + вручную. Секреты/токены НЕ нужны.
+# Файл положить в: .github/workflows/update-widgets.yml
+# ═══════════════════════════════════════════════════════════════════
+name: Update profile widgets
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # каждые 6 часов (время UTC)
+  workflow_dispatch: {}      # кнопка "Run workflow" вручную
+
+permissions:
+  contents: write
+
+concurrency:
+  group: widgets
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      # ── 🐍 Змейка (Platane/snk) ──
+      # Конфигурация цветов: https://github.com/Platane/snk#configuration
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake-dark.svg?palette=github-dark&color_snake=#00d4ff
+            assets/snake-light.svg?palette=github-light&color_snake=#f2994a
+
+      # ── 📊 3D-график коммитов (yoshi389111) ──
+      # Варианты: profile-gitblock-green-0.svg, profile-night-green-0.svg,
+      #           profile-season-animate.svg — https://github.com/yoshi389111/github-profile-3d-contrib
+      - uses: yoshi389111/github-profile-3d-contrib@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # ── Один коммит со всеми результатами ──
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add assets/ profile-3d-contrib/
+          if git diff --staged --quiet; then
+            echo "Nothing changed, skipping commit"
+          else
+            git commit -m "chore: update snake + 3d contribution graph"
+            git push
+          fi
