@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" width="1200" height="12">
+<style>
+@keyframes dp{0%,100%{opacity:.25;transform:scale(.7)}50%{opacity:1;transform:scale(1.25)}}
+.d0{animation:dp 1.8s ease-in-out 0.00s infinite}
+.d1{animation:dp 1.8s ease-in-out 0.08s infinite}
+.d2{animation:dp 1.8s ease-in-out 0.16s infinite}
+.d3{animation:dp 1.8s ease-in-out 0.24s infinite}
+.d4{animation:dp 1.8s ease-in-out 0.32s infinite}
+.d5{animation:dp 1.8s ease-in-out 0.40s infinite}
+.d6{animation:dp 1.8s ease-in-out 0.48s infinite}
+.d7{animation:dp 1.8s ease-in-out 0.56s infinite}
+.d8{animation:dp 1.8s ease-in-out 0.64s infinite}
+.d9{animation:dp 1.8s ease-in-out 0.72s infinite}
+.d10{animation:dp 1.8s ease-in-out 0.80s infinite}
+.d11{animation:dp 1.8s ease-in-out 0.88s infinite}
+.d12{animation:dp 1.8s ease-in-out 0.96s infinite}
+.d13{animation:dp 1.8s ease-in-out 1.04s infinite}
+.d14{animation:dp 1.8s ease-in-out 1.12s infinite}
+.d15{animation:dp 1.8s ease-in-out 1.20s infinite}
+.d16{animation:dp 1.8s ease-in-out 1.28s infinite}
+.d17{animation:dp 1.8s ease-in-out 1.36s infinite}
+.d18{animation:dp 1.8s ease-in-out 1.44s infinite}
+.d19{animation:dp 1.8s ease-in-out 1.52s infinite}
+.d20{animation:dp 1.8s ease-in-out 1.60s infinite}
+.d21{animation:dp 1.8s ease-in-out 1.68s infinite}
+.d22{animation:dp 1.8s ease-in-out 1.76s infinite}
+.d23{animation:dp 1.8s ease-in-out 1.84s infinite}
+.d24{animation:dp 1.8s ease-in-out 1.92s infinite}
+.d25{animation:dp 1.8s ease-in-out 2.00s infinite}
+.d26{animation:dp 1.8s ease-in-out 2.08s infinite}
+.d27{animation:dp 1.8s ease-in-out 2.16s infinite}
+.d28{animation:dp 1.8s ease-in-out 2.24s infinite}
+.d29{animation:dp 1.8s ease-in-out 2.32s infinite}
+</style>
+<line x1="0" y1="6" x2="1200" y2="6" stroke="#21262d" stroke-width="1"/>
+<circle class="d0" cx="12.0" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:12.0px 6px"/><circle class="d1" cx="52.6" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:52.6px 6px"/><circle class="d2" cx="93.1" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:93.1px 6px"/><circle class="d3" cx="133.7" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:133.7px 6px"/><circle class="d4" cx="174.2" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:174.2px 6px"/><circle class="d5" cx="214.8" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:214.8px 6px"/><circle class="d6" cx="255.3" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:255.3px 6px"/><circle class="d7" cx="295.9" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:295.9px 6px"/><circle class="d8" cx="336.4" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:336.4px 6px"/><circle class="d9" cx="377.0" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:377.0px 6px"/><circle class="d10" cx="417.5" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:417.5px 6px"/><circle class="d11" cx="458.1" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:458.1px 6px"/><circle class="d12" cx="498.6" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:498.6px 6px"/><circle class="d13" cx="539.2" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:539.2px 6px"/><circle class="d14" cx="579.7" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:579.7px 6px"/><circle class="d15" cx="620.3" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:620.3px 6px"/><circle class="d16" cx="660.8" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:660.8px 6px"/><circle class="d17" cx="701.4" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:701.4px 6px"/><circle class="d18" cx="741.9" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:741.9px 6px"/><circle class="d19" cx="782.5" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:782.5px 6px"/><circle class="d20" cx="823.0" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:823.0px 6px"/><circle class="d21" cx="863.6" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:863.6px 6px"/><circle class="d22" cx="904.1" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:904.1px 6px"/><circle class="d23" cx="944.7" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:944.7px 6px"/><circle class="d24" cx="985.2" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:985.2px 6px"/><circle class="d25" cx="1025.8" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:1025.8px 6px"/><circle class="d26" cx="1066.3" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:1066.3px 6px"/><circle class="d27" cx="1106.9" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:1106.9px 6px"/><circle class="d28" cx="1147.4" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:1147.4px 6px"/><circle class="d29" cx="1188.0" cy="6" r="2.6" fill="#58a6ff" style="transform-origin:1188.0px 6px"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 10" width="1200" height="10">
+<style>
+.streak{animation:slide 3.2s linear infinite}
+@keyframes slide{0%{transform:translateX(-460px)}100%{transform:translateX(1220px)}}
+</style>
+<defs>
+<linearGradient id="c" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#7b2ff7" stop-opacity="0"/>
+<stop offset=".5" stop-color="#7b2ff7"/>
+<stop offset=".8" stop-color="#00d4ff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<filter id="b" x="-10%" y="-400%" width="120%" height="900%"><feGaussianBlur stdDeviation="2"/></filter>
+</defs>
+<rect x="0" y="4.5" width="1200" height="1" fill="#21262d"/>
+<g class="streak">
+<rect x="0" y="2.6" width="430" height="4.8" fill="url(#c)" filter="url(#b)"/>
+<rect x="0" y="4.3" width="430" height="1.4" fill="url(#c)"/>
+</g>
+</svg>
