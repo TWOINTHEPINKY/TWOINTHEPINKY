@@ -94,7 +94,7 @@ Connect With Me
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_style=default" width="60%" alt="Spotify now playing"/>
   </a>
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&cover_image=false&theme=novatorem&show_offline=false&background_color=2ee7ff&interchange=true&profanity=false&hide_remaster=false&bar_color=c32ac6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=b14ea9&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zce6mvczp3q37gzcan3xxeyboy&redirect=true)
 </div>
 
 ---
