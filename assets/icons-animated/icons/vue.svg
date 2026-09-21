@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<title>vue</title>
+<defs><radialGradient id="glow"><stop offset="0" stop-color="#4FC08D" stop-opacity=".6"/><stop offset="1" stop-color="#4FC08D" stop-opacity="0"/></radialGradient></defs>
+<style>
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.14)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3.5px)}}
+@keyframes wiggle{0%,100%{transform:rotate(-7deg)}50%{transform:rotate(7deg)}}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes halo{0%,100%{opacity:.30;transform:scale(1)}50%{opacity:.65;transform:scale(1.1)}}
+
+.halo{animation:halo 2.6s ease-in-out infinite;transform-origin:32px 32px}
+.ico{animation:float 3s ease-in-out infinite;transform-origin:12px 12px}
+</style>
+<circle class="halo" cx="32" cy="32" r="26" fill="url(#glow)"/>
+<g transform="translate(20,20)"><g class="ico"><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z" fill="#4FC08D"/></g></g>
+</svg>

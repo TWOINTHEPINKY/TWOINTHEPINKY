@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<title>css3</title>
+<defs><radialGradient id="glow"><stop offset="0" stop-color="#1572B6" stop-opacity=".6"/><stop offset="1" stop-color="#1572B6" stop-opacity="0"/></radialGradient></defs>
+<style>
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.14)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3.5px)}}
+@keyframes wiggle{0%,100%{transform:rotate(-7deg)}50%{transform:rotate(7deg)}}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes halo{0%,100%{opacity:.30;transform:scale(1)}50%{opacity:.65;transform:scale(1.1)}}
+
+.halo{animation:halo 2.6s ease-in-out infinite;transform-origin:32px 32px}
+.ico{animation:pulse 2.2s ease-in-out infinite;transform-origin:12px 12px}
+</style>
+<circle class="halo" cx="32" cy="32" r="26" fill="url(#glow)"/>
+<g transform="translate(20,20)"><g class="ico"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z" fill="#1572B6"/></g></g>
+</svg>

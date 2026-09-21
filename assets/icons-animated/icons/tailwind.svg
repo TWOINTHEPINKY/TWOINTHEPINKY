@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<title>tailwind</title>
+<defs><radialGradient id="glow"><stop offset="0" stop-color="#06B6D4" stop-opacity=".6"/><stop offset="1" stop-color="#06B6D4" stop-opacity="0"/></radialGradient></defs>
+<style>
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.14)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3.5px)}}
+@keyframes wiggle{0%,100%{transform:rotate(-7deg)}50%{transform:rotate(7deg)}}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes halo{0%,100%{opacity:.30;transform:scale(1)}50%{opacity:.65;transform:scale(1.1)}}
+
+.halo{animation:halo 2.6s ease-in-out infinite;transform-origin:32px 32px}
+.ico{animation:float 3s ease-in-out infinite;transform-origin:12px 12px}
+</style>
+<circle class="halo" cx="32" cy="32" r="26" fill="url(#glow)"/>
+<g transform="translate(20,20)"><g class="ico"><path d="M12.001,4.8c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 C13.666,10.618,15.027,12,18.001,12c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C16.337,6.182,14.976,4.8,12.001,4.8z M6.001,12c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 c1.177,1.194,2.538,2.576,5.512,2.576c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C10.337,13.382,8.976,12,6.001,12z" fill="#06B6D4"/></g></g>
+</svg>
