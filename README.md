@@ -69,7 +69,7 @@ Connect With Me
 
 <div align="center">
 
-<a href="https://t.me/@champagneslesar6"><img src="./assets/icons-animated/icons/telegram.svg" width="100" height="100" alt="tg"/></a>
+<a href="https://t.me/champagneslesar6"><img src="./assets/icons-animated/icons/telegram.svg" width="100" height="100" alt="tg"/></a>
 <a href="mailto:pinkstevenct@gmail.com"><img src="./assets/icons-animated/icons/gmail.svg" width="100" height="100" alt="mail"/></a>
 
 </div>
