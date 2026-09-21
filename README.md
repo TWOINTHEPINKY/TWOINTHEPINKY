@@ -53,5 +53,5 @@ Connect With Me
 <a href="mailto:pinkstevenct@gmail.com"><img src="./assets/icons-animated/icons/gmail.svg" width="100" height="100" alt="mail"/></a>
 
 </div>
-<img src="assets/text-fx/VideoProject-ezgif.com-video-to-gif-converter.gif" width="300" height="300"/> 
+<img src="assets/dividers/d.gif" width="300" height="300"/> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:8A2B5C&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
