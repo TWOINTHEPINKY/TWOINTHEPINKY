@@ -1,58 +1,33 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:8A2B5C&height=280&section=header&text=TWOINTHEPINKY&fontSize=60&fontColor=7f159e&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer-Generalist%20%7C%20Fan%20Of%20Surrealism%20n%20Pizza&descSize=18&descAlignY=58" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:8A2B5C&height=280&section=header&text=TWOINTHEPINKY&fontSize=60&fontColor=7f159e&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer-Generalist%20%7C%20Seeker%20Of%20The%20Ideal%20&descSize=18&descAlignY=58" width="100%" alt="Header banner"/>
 
-<!-- ═══ ПЕЧАТАЮЩИЙСЯ ТЕКСТ (typewriter) ═══
-     Строки через %20%20|%20 (это " | " с URL-кодированием пробелов)
-     Конструктор: https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://github.com/TWOINTHEPINKY">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+YOUR_NAME;%F0%9F%92%BB+I+build+cool+things+for+the+web;%F0%9F%8E%AE+Gamer+%26+Coffee+Lover+%E2%98%95;%F0%9F%8C%B1+Currently+learning+Rust+%26+Go" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=c566e1&center=true&vCenter=true&width=650&lines=%F0%9F%92%BE+Sap%2C+I'm+twointhepinky+%F0%9F%8C%86;I+am+involved+in+art;%F0%9F%8E%AC+I+Create+A+Beautiful+Visual+%F0%9F%8E%B5;And+Handle+The+Tedious+Technical+Work;%F0%9F%A6%87+%F0%9F%95%B8%EF%B8%8F+SHH+%F0%9F%90%88%E2%80%8D%E2%AC%9B+%F0%9F%A5%80;%F0%9F%8D%95+Pizza+,+McDonald's+%26+Sprite+Lover+%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9" alt="Typing SVG"/>
 </a>
 
 <br/>
-
-<!-- ═══ СЧЁТЧИКИ И КНОПКИ-БЕЙДЖИ ═══
-     komarev.com — счётчик посетителей профиля
-     shields.io/github/followers — кнопка "Follow" (style=social) -->
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blueviolet&label=👀+PROFILE+VIEWS" alt="Profile views"/>
-<a href="https://github.com/YOUR-USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=social" alt="Followers"/>
-</a>
-<a href="https://github.com/YOUR-USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/📦-Public%20Repos-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-</a>
-
 </div>
 
----
+<div align="center">
+  <img src="./assets/dividers/neon-slide.svg" width="100%" height="8" alt="──────"/>
+</div>
 
-<!-- ═══════════════════ 🧑‍💻 ABOUT ME ═══════════════════ -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW01a3g5dWU5Z3U5bXU0d3k4bXVhOW5nOW5nOW5nOW5nOW5nJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/du3J3cDWLhUrTUDQIf/giphy.gif" width="32" height="32"/> About Me
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MG1zYW9xeW1pcWN6d3NhMmE0cDBlbzVxdjd6c3VrOTJoa3Rhc2w2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OvsFsuMtDtEhOzqHEs/giphy.gif" width="100" height="100"/> 
+
+info:
+</div>
 
 <table border="0">
 <tr>
 <td width="60%" valign="top">
 
-- 🔭 Currently working on: **My Awesome Project**
-- 🌱 Learning: **Rust, System Design**
-- 💬 Ask me about: **React, Node.js, Python**
-- 📫 How to reach me: **your@email.com**
-- ⚡ Fun fact: **I debug with printf, not breakpoints**
-- 🎯 2026 Goal: **Ship 12 open-source projects**
+I develop absolutely **incredible** things—specifically, creative projects. My work covers everything from frontend and backend development to integrating your custom bots and scripts. If you are familiar with my projects—or if something you’ve just seen caught your eye—and you have an idea, please get in touch. Contact me via the links below.
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<!-- ТВОЁ ФОТО / АВАТАР. Варианты:
-     1. Загрузи файл в папку assets/ репозитория и укажи путь ./assets/me.png
-     2. Внешняя ссылка (Unsplash, свой сайт)
-     Круглая картинка делается CSS прямо тут — GitHub это разрешает в img -->
-<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="220" height="220" style="border-radius: 50%; border: 4px solid #00D4FF;" alt="My photo"/>
-
-<br/>
-
-<!-- Анимированный GIF под фото — просто для красоты.
-     Ссылку на GIF берёшь с Giphy (см. гайд, раздел GIF) -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjQzeXc2dG1uenoya2V6N3BveWRnejBlcXloNTF4ZDZ3dHY4MW9ycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="220" alt="Coding gif"/>
 
 </td>
 </tr>
@@ -60,8 +35,8 @@
 
 ---
 
-<!-- ═══════════════════ 🛠 TECH STACK ═══════════════════ -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32"/> Tech Stack
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandqb284ODQyOXdnd2xhNnhpYzdoZWI4c2ZtYXQ1OWd3djBkbmY2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" width="32" height="32"/> Tech Stack
 
 <!-- ═══ ВАРИАНТ 1: skillicons.dev — красивые готовые иконки (SVG)
      Полный список: https://skillicons.dev  (параметр i= через запятую)
@@ -76,17 +51,6 @@
 
 <br/>
 
-<!-- ═══ ВАРИАНТ 2: shields.io бейджи с логотипами simple-icons
-     Названия логотипов: https://simpleicons.org (наведи на иконку — получишь slug)
-     Конструктор бейджа: https://shields.io/badges/custom-badge -->
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-</div>
-
 ---
 
 <!-- ═══════════════════ 🔗 SOCIALS (КЛИКАБЕЛЬНЫЕ КНОПКИ) ═══════════════════ -->
@@ -94,12 +58,8 @@
 
 <div align="center">
 
-<a href="https://t.me/YOUR-USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://discord.com/users/YOUR-DISCORD-ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-<a href="https://codeforces.com/profile/YOUR-USERNAME"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://t.me/@champagneslesar6"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:pinkstevenct@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
 
