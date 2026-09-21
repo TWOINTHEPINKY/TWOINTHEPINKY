@@ -20,7 +20,7 @@
 </div>
 
 
-<img src="./assets/text-fx/info-typewriter.svg" width="70%" alt="I develop absolutely incredible things — specifically, creative projects. My work covers everything from frontend and backend development to integrating your custom bots and scripts. If you are familiar with my projects — or if something you’ve just seen caught your eye — and you have an idea, please get in touch. Contact me via the links below. P.S. Pizza, Sprite and MacDonald's lover."/> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjQzeXc2dG1uenoya2V6N3BveWRnejBlcXloNTF4ZDZ3dHY4MW9ycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="350" alt="Coding gif"/>
+<img src="./assets/text-fx/info-typewriter.svg" width="60%" alt="I develop absolutely incredible things — specifically, creative projects. My work covers everything from frontend and backend development to integrating your custom bots and scripts. If you are familiar with my projects — or if something you’ve just seen caught your eye — and you have an idea, please get in touch. Contact me via the links below. P.S. Pizza, Sprite and MacDonald's lover."/> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjQzeXc2dG1uenoya2V6N3BveWRnejBlcXloNTF4ZDZ3dHY4MW9ycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" width="350" alt="Coding gif"/>
 
 
 
