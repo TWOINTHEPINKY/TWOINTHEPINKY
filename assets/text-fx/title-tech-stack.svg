@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 46" width="290" height="46">
+<defs>
+<linearGradient id="s" x1="-0.5" y1="0" x2="0.2" y2="0">
+<stop offset="0" stop-color="#ff4dcd"/><stop offset=".5" stop-color="#ffffff"/><stop offset="1" stop-color="#7b2ff7"/>
+<animate attributeName="x1" values="-0.5;1.0" dur="3s" repeatCount="indefinite"/>
+<animate attributeName="x2" values="0.2;1.7" dur="3s" repeatCount="indefinite"/>
+</linearGradient>
+<filter id="g" x="-40%" y="-60%" width="180%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<style>t{font-family:'Fira Code',Consolas,Menlo,monospace;font-size:30px;font-weight:700}</style>
+<text class="t" x="12" y="31" fill="#7b2ff7" filter="url(#g)" opacity=".45">
+<animate attributeName="opacity" values=".25;.65;.25" dur="2.2s" repeatCount="indefinite"/>tech stack:</text>
+<text class="t" x="12" y="31" fill="url(#s)">tech stack:</text>
+<rect x="217" y="10" width="3" height="24" fill="#7b2ff7">
+<animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="0.9s" repeatCount="indefinite"/>
+</rect>
+</svg>
