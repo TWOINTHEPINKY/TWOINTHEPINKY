@@ -27,11 +27,11 @@
 
 
 <div align="center">
-  <img src="./assets/icons-animated/icons/react.svg" width="100" height="100" alt="React"/> <img src="./assets/icons-animated/icons/typescript.svg" width="100" height="100" alt="TS"/> <img src="./assets/icons-animated/icons/css3.svg" width="100" height="100" alt="css"/> <img src="./assets/icons-animated/icons/figma.svg" width="100" height="100" alt="figma"/> <img src="./assets/icons-animated/icons/go.svg" width="100" height="100" alt="go"/> <img src="./assets/icons-animated/icons/nodejs.svg" width="100" height="100" alt="nodejs"/> <img src="./assets/icons-animated/icons/javascript.svg" width="100" height="100" alt="JS"/> <img src="./assets/icons-animated/icons/html5.svg" width="100" height="100" alt="html"/>
+  <img src="./assets/icons-animated/icons/vscode.svg" width="100" height="100" alt="vs"/> <img src="./assets/icons-animated/icons/git.svg" width="100" height="100" alt="git"/> <img src="./assets/icons-animated/icons/github.svg" width="100" height="100" alt="gh"/> <img src="./assets/icons-animated/icons/css3.svg" width="100" height="100" alt="css"/> <img src="./assets/icons-animated/icons/html5.svg" width="100" height="100" alt="html"/> <img src="./assets/icons-animated/icons/javascript.svg" width="100" height="100" alt="JS"/> <img src="./assets/icons-animated/icons/figma.svg" width="100" height="100" alt="figma"/> 
   <br/>
 *Tech Stack*
   <br/>
-  <img src="./assets/icons-animated/icons/vscode.svg" width="100" height="100" alt="vs"/> <img src="./assets/icons-animated/icons/vue.svg" width="100" height="100" alt="vue"/> <img src="./assets/icons-animated/icons/typescript.svg" width="100" height="100" alt="TS"/> <img src="./assets/icons-animated/icons/python.svg" width="100" height="100" alt="py"/> <img src="./assets/icons-animated/icons/git.svg" width="100" height="100" alt="git"/> <img src="./assets/icons-animated/icons/postgresql.svg" width="100" height="100" alt="psql"/> <img src="./assets/icons-animated/icons/github.svg" width="100" height="100" alt="gh"/> 
+  <img src="./assets/icons-animated/icons/python.svg" width="100" height="100" alt="py"/> <img src="./assets/icons-animated/icons/postgresql.svg" width="100" height="100" alt="psql"/> <img src="./assets/icons-animated/icons/react.svg" width="100" height="100" alt="React"/> <img src="./assets/icons-animated/icons/typescript.svg" width="100" height="100" alt="TS"/> <img src="./assets/icons-animated/icons/nodejs.svg" width="100" height="100" alt="nodejs"/> <img src="./assets/icons-animated/icons/go.svg" width="100" height="100" alt="go"/> <img src="./assets/icons-animated/icons/vue.svg" width="100" height="100" alt="vue"/> 
 </div>
 
 <br/>
