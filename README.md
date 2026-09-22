@@ -1,9 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3F,100:8A2B5C&height=280&section=header&text=TWOINTHEPINKY&fontSize=60&fontColor=7f159e&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer-Generalist%20%7C%20Seeker%20Of%20The%20Ideal%20&descSize=18&descAlignY=58" width="100%" alt="Header banner"/>
 
-<a href="https://github.com/TWOINTHEPINKY">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=c566e1&center=true&vCenter=true&width=650&lines=Sap%2C+I'm+twointhepinky;I+am+involved+in+art;I+Create+A+Beautiful+Visual;And+Handle+The+Tedious+Technical+Work;%F0%9F%A6%87+%F0%9F%95%B8%EF%B8%8F+SHH+%F0%9F%90%88%E2%80%8D%E2%AC%9B+%F0%9F%A5%80" alt="Typing SVG"/>
-</a>
 
 <br/>
 </div>
