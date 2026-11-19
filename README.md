@@ -13,7 +13,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="./assets/dividers/wave-dash.svg" width="100%" height="10" alt="──────"/>
+  <img src="./assets/dividers/space-ufo.svg" width="100%" height="10" alt="──────"/>
 </div>
 
 
@@ -37,7 +37,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/dividers/gothic-blood.svg" width="100%" height="25" alt="──────"/>
+  <img src="./assets/dividers/space-meteors.svg" width="100%" height="25" alt="──────"/>
 </div>
 
 <div align="center">
