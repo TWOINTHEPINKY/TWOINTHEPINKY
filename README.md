@@ -13,7 +13,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="./assets/dividers/space-ufo.svg" width="100%" height="10" alt="──────"/>
+  <img src="./assets/dividers/space-ufo.svg" width="100%" height="25" alt="──────"/>
 </div>
 
 
