@@ -22,7 +22,7 @@
 
 
 <div align="center">
-  <img src="./assets/dividers/pulse-dots.svg" width="100%" height="25" alt="──────"/>
+  <img src="./assets/dividers/space-constellation.svg" width="100%" height="25" alt="──────"/>
 </div>
 
 
