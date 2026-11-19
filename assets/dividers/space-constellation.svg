@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 22" width="1200" height="22">
+<style>
+@keyframes tw{0%,100%{opacity:.12}50%{opacity:1}}
+.seg{stroke-dasharray:1;animation:draw 7s linear infinite}@keyframes draw{0%{stroke-dashoffset:1}8%{stroke-dashoffset:0}80%{stroke-dashoffset:0}92%{stroke-dashoffset:1}100%{stroke-dashoffset:1}}.st{animation:stGlow 7s ease-in-out infinite}@keyframes stGlow{0%,4%{opacity:.25}12%,80%{opacity:1}92%,100%{opacity:.25}}
+.sg0{animation-delay:0.00s}
+.dt0{animation-delay:0.30s}
+.sg1{animation-delay:0.55s}
+.dt1{animation-delay:0.85s}
+.sg2{animation-delay:1.10s}
+.dt2{animation-delay:1.40s}
+.sg3{animation-delay:1.65s}
+.dt3{animation-delay:1.95s}
+.sg4{animation-delay:2.20s}
+.dt4{animation-delay:2.50s}
+.sg5{animation-delay:2.75s}
+.dt5{animation-delay:3.05s}
+.k0{animation:tw 2.9s ease-in-out 2.5s infinite}
+.k1{animation:tw 3.3s ease-in-out 2.0s infinite}
+.k2{animation:tw 3.3s ease-in-out 3.0s infinite}
+.k3{animation:tw 2.8s ease-in-out 1.7s infinite}
+.k4{animation:tw 2.9s ease-in-out 0.6s infinite}
+.k5{animation:tw 1.6s ease-in-out 2.8s infinite}
+.k6{animation:tw 1.8s ease-in-out 0.5s infinite}
+.k7{animation:tw 1.7s ease-in-out 2.1s infinite}
+.k8{animation:tw 2.2s ease-in-out 2.0s infinite}
+.k9{animation:tw 2.0s ease-in-out 0.8s infinite}
+.k10{animation:tw 1.5s ease-in-out 0.8s infinite}
+.k11{animation:tw 2.3s ease-in-out 0.5s infinite}
+.k12{animation:tw 3.4s ease-in-out 2.5s infinite}
+.k13{animation:tw 1.5s ease-in-out 2.1s infinite}
+</style><defs><filter id="gl" x="-60%" y="-300%" width="220%" height="700%"><feGaussianBlur stdDeviation="2"/></filter><linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#101a3a" stop-opacity=".2"/><stop offset=".5" stop-color="#3a6ea5"/><stop offset="1" stop-color="#101a3a" stop-opacity=".2"/></linearGradient></defs>
+<rect x="0" y="20" width="1200" height="1" fill="url(#ln)" opacity=".55"/><path class="seg sg0" pathLength="1" d="M470,15 L525,7" stroke="#7fd4ff" stroke-width="1" fill="none" opacity=".8"/><path class="seg sg1" pathLength="1" d="M525,7 L580,11" stroke="#7fd4ff" stroke-width="1" fill="none" opacity=".8"/><path class="seg sg2" pathLength="1" d="M580,11 L635,5" stroke="#7fd4ff" stroke-width="1" fill="none" opacity=".8"/><path class="seg sg3" pathLength="1" d="M635,5 L695,10" stroke="#7fd4ff" stroke-width="1" fill="none" opacity=".8"/><path class="seg sg4" pathLength="1" d="M695,10 L750,16" stroke="#7fd4ff" stroke-width="1" fill="none" opacity=".8"/><path class="seg sg5" pathLength="1" d="M750,16 L810,8" stroke="#7fd4ff" stroke-width="1" fill="none" opacity=".8"/><g class="st dt0"><circle cx="470" cy="15" r="3" fill="#7fd4ff" opacity=".3" filter="url(#gl)"/><circle cx="470" cy="15" r="1.7" fill="#fff"/></g><g class="st dt1"><circle cx="525" cy="7" r="3" fill="#7fd4ff" opacity=".3" filter="url(#gl)"/><circle cx="525" cy="7" r="1.7" fill="#fff"/></g><g class="st dt2"><circle cx="580" cy="11" r="3" fill="#7fd4ff" opacity=".3" filter="url(#gl)"/><circle cx="580" cy="11" r="1.7" fill="#fff"/></g><g class="st dt3"><circle cx="635" cy="5" r="3" fill="#7fd4ff" opacity=".3" filter="url(#gl)"/><circle cx="635" cy="5" r="1.7" fill="#fff"/></g><g class="st dt4"><circle cx="695" cy="10" r="3" fill="#7fd4ff" opacity=".3" filter="url(#gl)"/><circle cx="695" cy="10" r="1.7" fill="#fff"/></g><g class="st dt5"><circle cx="750" cy="16" r="3" fill="#7fd4ff" opacity=".3" filter="url(#gl)"/><circle cx="750" cy="16" r="1.7" fill="#fff"/></g><g class="st dt6"><circle cx="810" cy="8" r="3" fill="#7fd4ff" opacity=".3" filter="url(#gl)"/><circle cx="810" cy="8" r="1.7" fill="#fff"/></g><circle class="k0" cx="115.0" cy="18.1" r="0.63" fill="#cfe8ff"/><circle class="k1" cx="365.5" cy="7.3" r="1.15" fill="#e0c3fc"/><circle class="k2" cx="464.2" cy="10.1" r="0.79" fill="#ffffff"/><circle class="k3" cx="756.9" cy="1.7" r="0.71" fill="#cfe8ff"/><circle class="k4" cx="70.1" cy="5.2" r="0.95" fill="#cfe8ff"/><circle class="k5" cx="493.9" cy="6.5" r="1.25" fill="#ffe9c4"/><circle class="k6" cx="392.5" cy="12.1" r="0.72" fill="#ffe9c4"/><circle class="k7" cx="664.0" cy="8.9" r="0.77" fill="#aee7ff"/><circle class="k8" cx="985.6" cy="11.5" r="1.17" fill="#ffffff"/><circle class="k9" cx="309.1" cy="15.7" r="1.13" fill="#ffffff"/><circle class="k10" cx="718.1" cy="15.2" r="0.95" fill="#ffe9c4"/><circle class="k11" cx="155.8" cy="5.0" r="1.00" fill="#ffe9c4"/><circle class="k12" cx="75.6" cy="5.3" r="1.07" fill="#ffe9c4"/><circle class="k13" cx="842.6" cy="11.1" r="1.08" fill="#cfe8ff"/>
+</svg>
